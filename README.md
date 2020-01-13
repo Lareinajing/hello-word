@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 the first programming
